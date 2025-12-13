@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-13 06:37:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-13 18:37:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1730,6 +1730,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=d67d374d60dc3171843a95903861548d&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=dc9c25b4a5e8acdd4d3c1df079be9ad0&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=e34bd26d6c6e2790e51f9b354ab9058d&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=92c8e8d96d8b89bbd79e90a3ca3873e3&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1749,6 +1750,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=ca135beaeb234ee51a1c31823c5ba702&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=0e19a4896aa3798ca7bf9845d12bd579&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=3ba3f0542e78c63b0f420f01fc069687&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=cc176810221ff2231f1bfff343520d58&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -2845,6 +2847,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 音乐广播,https://tv-1.iill.top/fm/552
 音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
+音乐广播,https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
